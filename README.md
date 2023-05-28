@@ -12,7 +12,7 @@
 ## Installation
 
 1. clone the repository:
-   youtube-clone
+  #### youtube-clone
 
 2. Navigate to the project directory:
    cd youtube-clone
