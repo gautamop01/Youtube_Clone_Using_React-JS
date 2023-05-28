@@ -14,7 +14,7 @@
 1. clone the repository: <strong>youtube-clone </strong>
 
 2. Navigate to the project directory:
-   cd youtube-clone
+    <strong> cd youtube-clone  </strong>
 
 3. install the dependencies:
    npm install
