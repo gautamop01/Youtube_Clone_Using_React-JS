@@ -17,18 +17,15 @@
     <strong> cd youtube-clone  </strong>
 
 3. install the dependencies:
-   npm install
+   <strong> npm install  </strong>
 
 ## Usage
 
 1. Start the development server:
-   npm run dev
-
-2. Open your browser and visit:
-   http://localhost:300
+     <strong> npm run dev  </strong>
    
 3. Build (Production)
-   npm run build 
+   <strong> npm run build  </strong> 
    
 ## Dependencies
 
