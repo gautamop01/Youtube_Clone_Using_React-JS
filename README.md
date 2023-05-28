@@ -11,8 +11,7 @@
 
 ## Installation
 
-1. clone the repository:
-  #### youtube-clone
+1. clone the repository: <strong>youtube-clone </strong>
 
 2. Navigate to the project directory:
    cd youtube-clone
