@@ -6,7 +6,7 @@
 - Homepage with image/thumbnail cards
 - Infinite scrolling 
 - video details page
-- state management using Context API
+- state management 
 
 
 ## Installation
