@@ -7,6 +7,9 @@ The video player page is designed to play the selected video and provides additi
 
 Several packages are utilized within the app to enhance its functionality. Axios, a popular JavaScript library, is used to make HTTP requests to the external API and retrieve video data efficiently. React-Intersection-Observer is employed to handle the intersection of elements in the user's viewport, facilitating better performance and optimizing the loading of video cards. React-Icons is utilized to incorporate various icons within the application, improving its visual appeal and user experience.
 <strong>
+    
+    
+    
 Overall, this YouTube Clone app demonstrates the implementation of key features found in the original YouTube platform, including video browsing, video playback, and integration with external APIs. By utilizing React JS and various complementary packages, this application offers an immersive and user-friendly video viewing experience.
 </strong>
 
